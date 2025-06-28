@@ -30,21 +30,21 @@ ___
 Download project
 
 1. Склонувати з Git Hub репозиторію
-   
-  1. Зайти на Git Hub репозиторій проекту
-  2. Натиснути на зелену кнопку "Code"
+
+   - Зайти на Git Hub репозиторій проекту
+   - Натиснути на зелену кнопку "Code"
    ![alt text](images/readme/Screenshot1.png)
-  3. Скопіювати посилання
+   - Скопіювати посилання
    ![alt text](images/readme/Screenshot2.png)
-  4. Відкрити термінал
-  5. Прописати команду `'git clone та вставити посилання'`
+   - Відкрити термінал
+   - Прописати команду `'git clone та вставити посилання'`
    ![alt text](images/readme/Screenshot3.png)
 
 2. Завантажити за допомогою zip-архіву
 
-  1. Розархівувати zip-архів
+   - Розархівувати zip-архів
    ![alt text](images/readme/Screenshot4.png)
-  2. Відкрити цю папку в VS Code
+   - Відкрити цю папку в VS Code
    ![alt text](images/readme/Screenshot5.png)
 ___
 <h4 id= 'create-venv'>Створення віртуального оточення проєкту:</h4>
@@ -52,18 +52,18 @@ ___
 
 1. Windows
 
-  1. Відкрити термінал (GitBash) та перейти в директорію проекта
+   - Відкрити термінал (GitBash) та перейти в директорію проекта
    ![alt text](images/readme/Screenshot8.png)
-  2. Прописати команду `'python -m venv venv(назва директорії)'`
-  3. Активувати за допомогою команди `cd venv/Scripts`
+   - Прописати команду `'python -m venv venv(назва директорії)'`
+   - Активувати за допомогою команди `cd venv/Scripts`
 `.\activate.bat`
    ![alt text](images/readme/Screenshot9.png)
 
 1. Mac OS або Linux
 
-  1. Відкрити термінал та перейти в директорію проекта
-  2. Прописати команду `'python3 -m venv venv(назва директорії)'`
-  3. Активувати за допомогою команди `'source venv/bin/activate'`
+   - Відкрити термінал та перейти в директорію проекта
+   - Прописати команду `'python3 -m venv venv(назва директорії)'`
+   - Активувати за допомогою команди `'source venv/bin/activate'`
    ![alt text](images/readme/Screenshot7.png)
 ___
 <h4 id= 'download-modules-venv'>Завантаження модулів до віртуального оточення:</h4>
